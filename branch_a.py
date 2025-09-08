@@ -1,5 +1,4 @@
 def main():
     print("file_one.py file")
-    print("file_one is updated by branch A")
 if __name__ == "__main__":
     main()
